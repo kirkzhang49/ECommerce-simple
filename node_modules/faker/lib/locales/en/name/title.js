@@ -66,7 +66,7 @@ module["exports"] = {
     "Supervisor",
     "Associate",
     "Executive",
-    "Liaison",
+    "Liason",
     "Officer",
     "Manager",
     "Engineer",
